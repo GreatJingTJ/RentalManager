@@ -1,0 +1,23 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.11/
+devicelocale=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/devicelocale-0.2.3/
+file_picker=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-1.6.3+2/
+firebase_analytics=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-5.0.11/
+firebase_auth=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+9/
+firebase_core=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4+3/
+firebase_core_web=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+firebase_database=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.1.3/
+firebase_storage=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.5/
+flutter_plugin_android_lifecycle=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.7/
+fluttertoast=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/
+google_sign_in=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.4.4/
+google_sign_in_web=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.9.1/
+image_cropper=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.1/
+image_picker=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.5.4+3/
+path_provider=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.7/
+path_provider_macos=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+1/
+shared_preferences=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7/
+shared_preferences_macos=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+7/
+shared_preferences_web=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4/
+sqflite=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.0/
+wc_flutter_share=/Users/GreatJing/flutter/.pub-cache/hosted/pub.dartlang.org/wc_flutter_share-0.2.0/
