@@ -3,6 +3,3 @@
 A new Flutter project.
 
 ## Getting Started
-
- 
-# ECS193
